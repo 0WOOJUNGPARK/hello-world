@@ -9,3 +9,5 @@ Quick Start for Github :
 3. Making and committing changes
 4. Opening a pull changes
 5. Merging your pull request
+
+commits : on GitHub, saving changes
